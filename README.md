@@ -1,3 +1,13 @@
-# Headline
+# 天帝经（my wiki note）
+基于docsify搭建,需要安装docsify脚手架,学习笔记
 
-> An awesome project.
+#### 起步
+```bash
+npm i docsify --save -g
+```
+
+#### 安装
+```bash
+# cd docs
+docsify serve
+```
