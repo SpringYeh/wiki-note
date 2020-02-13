@@ -1,4 +1,4 @@
-![logo](assets/img/wiki3.svg)
+![logo](assets/img/wiki.svg)
 
 # 天帝经
 
