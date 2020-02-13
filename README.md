@@ -1,5 +1,5 @@
-# 天帝经（my wiki note）
-基于docsify搭建,需要安装docsify脚手架,学习笔记
+# 天帝经
+基于docsify搭建,需要安装docsify脚手架,都是工作中坑或者笔记
 
 #### 起步
 ```bash
