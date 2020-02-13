@@ -1,14 +1,14 @@
-![logo](assets/img/logo.png)
+![logo](assets/img/wiki3.svg)
 
 # 天帝经
 
-> A magical documentation site generator.
+> A wiki note for my study and life.
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+* WEB 前端
+* 数学、算法
+* Java 基础、Java 高级
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+[GitHub](https://github.com/springyeh/wiki-note/)
+[Get Started](#start)
 
 ![color](skyblue)
